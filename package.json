@@ -10,6 +10,9 @@
   },
   "devDependencies": {
     "@astrojs/tailwind": "^0.2.2",
-    "astro": "^1.0.0-beta.63"
+    "astro": "^1.0.0-beta.63",
+    "autoprefixer": "^10.4.7",
+    "daisyui": "^2.18.0",
+    "postcss": "^8.4.14"
   }
 }
